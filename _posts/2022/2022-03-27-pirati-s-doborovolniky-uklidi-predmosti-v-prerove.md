@@ -5,7 +5,7 @@ title: "Piráti s dobrovolníky uklidí Předmostí v Přerově"
 date: 2022-03-27
 tags: přerov
 author: Josef Indra
-image: articles/2022/2022-03-27-pirati-s-doborovolniky-uklidi-predmosti-v-prerove.jpg  #751x422 pixelu
+image: articles/2022/2022-03-27-pirati-s-dobrovolniky-uklidi-predmosti-v-prerove.jpg  #751x422 pixelu
 ---
 Přerovští Piráti se už 8.rokem zúčastní dobrovolnické eko-kampaně *„Ukliďme svět, ukliďme česko!”* Cílem akce bude nejen uklidit okolí Předmostí, ale i ve společné věci zapojit různé zájmové skupiny lidí, např. školáky, vysokoškoláky, úředníky, skauty, pejskaře či politiky. A taktéž mediálně zviditelnit dlouhodobě neřešenou problematiku černých skládek a odpadků ve veřejném prostoru. 
 
